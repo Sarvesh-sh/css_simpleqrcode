@@ -1,0 +1,43 @@
+body{
+    background-color: powderblue;
+    text-align:  center;
+    font-family: 'Outfit',sans-serif;
+}
+
+.main-div{
+    background-color: aliceblue;
+    border-radius: 5%;
+    margin:8% auto;
+    padding: 10px;
+    width: 20%;
+    height: 55%;
+}
+#image{
+    width: 90%;
+    height: 40%;
+    border-radius: 10%;
+    /* border: solid 2px red; */
+    margin:auto
+}
+#image img{
+    width: 100%;
+    height: 40%;
+    border-radius: 10%;
+}
+.main-para{
+    font-weight: bolder;
+    width: 80%;
+    margin: 5px auto;
+    font-size: 18px;
+    line-height: 2;
+}
+.secondary-para{
+    width: 70%;
+    margin: 10px auto;
+    font-weight: lighter;
+}
+/* .qr-code{
+    width: 80%;
+    height: 40%;
+    border-radius: 10%;
+} */
